@@ -1,5 +1,8 @@
 package distance;
 
+/**
+ * http://en.wikipedia.org/wiki/Levenshtein_distance 
+ */
 public class LevenshteinDistance implements Distance {
 
 	@Override
